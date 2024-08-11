@@ -1,5 +1,5 @@
 # resume
-My Resume from Complete Web Development Course
+My Resume after MBA
 <h1>Hi, I'm Arindam! <br/><a href="https://github.com/ar1ndam1993/resume">(IN)SENSITIVE scribbler</a>, <a href="https://www.linkedin.com/in/arindammallick/">Business Enthusiast</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
